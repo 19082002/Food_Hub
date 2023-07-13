@@ -1,5 +1,5 @@
 # Food_Hub
-Food delivery app UI/UX design using Flutter.
+A Food delivery app UI using Flutter.
 # Screenshots: 
 ![Screenshot 2023-07-13 130757](https://github.com/19082002/Food_Hub/assets/76838248/a468fb1a-1b59-4b72-beca-6f7593e45001)
 ![Screenshot 2023-07-13 130548](https://github.com/19082002/Food_Hub/assets/76838248/609d8579-e38b-4cce-bdda-13d07e6f8bc1)
